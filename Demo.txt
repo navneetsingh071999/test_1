@@ -1,1 +1,1 @@
-Hello Git
+Hello Git, I am learnig DevOps technique.
